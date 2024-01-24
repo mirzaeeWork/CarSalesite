@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: auto;
+  }
+
+  .back {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    width: fit-content;
+    background-color: #acb885;
+    color: rgb(5, 92, 56);
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 30px auto;
+    cursor: pointer;
+  }
+
